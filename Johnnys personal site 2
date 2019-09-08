@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Johnnys personal site</title>
+</head>
+
+<body>
+  <h1>Johnnys personal site</h1>
+  <hr>
+  <img src="https://i.pinimg.com/236x/74/53/ae/7453ae2e7266f66a7c4a8c7fc075a68b--wildcats-basketball-kentucky-basketball.jpg" alt="GO BIG BLUE">
+  <hr>
+  <p>Just a normal guy with aspirations to learn the skills I need to be a proficient, productive and employed web developer. Two years ago I was hurt at work for the second time and my family lost everything AGAIN. I decided it was time for a change and have always been facinated by computers and in particular web development so here I am.</p>
+  <br>
+
+  <p>
+    <h3>Education</h3>
+  </p>
+  <ul>
+    <li>Elzo Guthrie Elementary</li>
+    <li>Harlan Elementary</li>
+    <li>Port Charlotte Jr High</li>
+    <li>Charlotte High</li>
+    <li>Riverview High</li>
+    <li>State College of Florida</li>
+    <li>Harvard cs50 Computer Science via edX </li>
+    <li>M.I.T. OCW: Mathematics for Computer Science</li>
+    <br>
+    <p>
+      <h3>Hobbies</h3>
+    </p>
+    <ul>
+      <li><a href="https://vuurwapenblog.com/wp-content/uploads/2014/01/125microcan-1024x678.jpg" alt="Muzzle blast">Firing Range</a></li>
+      <li><a href="https://live.staticflickr.com/98/224489291_ce6a8da54c_z.jpg" alt="Harley Davidson built by Indian Larry RIP">Motorcycles</a></li>
+      <li><a href="https://cdn.carbuzz.com/gallery-images/original/166000/800/166897.jpg" alt="SRT Challenger">Racing Cars</a></li>
+      <li><a href="https://imgur.com/a/Plu82n9" alt="My baby Kiddo right befor I lost her after 14yrs">Missing my Kiddo</a></li>
+
+
+
+
+
+
+  </ul>
+
+</body>
+
+</html>
